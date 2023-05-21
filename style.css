@@ -1,0 +1,12 @@
+body
+
+{
+background-repeat:no repeat;
+background-image:url("ttt.png");
+}
+
+ul li
+{
+display:inline-block;
+padding:200px;
+}
